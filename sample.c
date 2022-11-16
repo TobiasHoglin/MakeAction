@@ -3,6 +3,6 @@
 int main(int argc, char **argv)
 {
 	printf("Here is sample.c\n");
-	printd("jejda");
+	printf("hejda");
 	return(0);
 }
